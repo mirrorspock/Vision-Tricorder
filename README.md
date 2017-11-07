@@ -1,20 +1,32 @@
 # Vision-Tricorder
 
 
+## Functions
+* WLAN scan
+* Color scan
+* Range scan
+* Audio analasys
+* Temerature
+* Computer vision
+* Networked together
+  * Chat
+  * Away Team Missions
+
+
 ##Parts
 
 ###CPU
-Raspberry Pi Zero W (€11)
+* Raspberry Pi Zero W (€11)
 
 ### Output
-TFT Display
-Sound out (beeps or full audio?)
-Adafruit NeoPixel Stick 8 x WS2812 (€5.49)
+* TFT Display
+* Sound out (beeps or full audio?)
+* Adafruit NeoPixel Stick 8 x WS2812 (€5.49)
 ###Sensor Suite
-Video 5MP Camera €5
+* Video 5MP Camera €5
 
 ###Power
-USB powerbank for ease of use replacability.
+* USB powerbank for ease of use replacability.
 
 ## Software
 
@@ -22,4 +34,5 @@ USB powerbank for ease of use replacability.
 
 ## Case design
 
-3d print?
+* 3d print
+* Bastelbogen aus pappe?
