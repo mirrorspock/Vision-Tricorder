@@ -13,19 +13,19 @@
   * Away Team Missions
 
 
-##Parts
+## Parts
 
-###CPU
+### CPU
 * Raspberry Pi Zero W (€11)
 
 ### Output
 * TFT Display
 * Sound out (beeps or full audio?)
 * Adafruit NeoPixel Stick 8 x WS2812 (€5.49)
-###Sensor Suite
+### Sensor Suite
 * Video 5MP Camera €5
 
-###Power
+### Power
 * USB powerbank for ease of use replacability.
 
 ## Software
