@@ -25,6 +25,9 @@
 ### Sensor Suite
 * Video 5MP Camera €5
 
+####
+* i2c: http://www.reuk.co.uk/wordpress/raspberry-pi/connect-multiple-temperature-sensors-with-raspberry-pi/
+
 ### Power
 * USB powerbank for ease of use replacability.
 
